@@ -1,0 +1,5 @@
+[core]
+    remote = gcs-remote
+['remote "gcs-remote"']
+    url = gs://khanh_bucket/dvc
+    credentialpath = ../sa-key.json
