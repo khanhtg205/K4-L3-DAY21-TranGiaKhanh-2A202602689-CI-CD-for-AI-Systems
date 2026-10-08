@@ -6,7 +6,7 @@
 | MSSV | 2A202602689 |
 | Lớp / Khóa | K4 |
 | Repo GitHub | https://github.com/khanhtg205/K4-L3-DAY21-TranGiaKhanh-2A202602689-CI-CD-for-AI-Systems |
-| Ngày nộp | 08/10/2026 |
+| Ngày nộp | 07/10/2026 |
 
 ---
 
